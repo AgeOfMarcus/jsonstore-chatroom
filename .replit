@@ -1,0 +1,2 @@
+language = "python3"
+run = "python3 client.py -c $(python3 -c \"print(input('chatroom: '))\") -u $(python3 -c \"print(input('username: ')"
